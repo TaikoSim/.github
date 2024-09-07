@@ -8,9 +8,9 @@ Whilst the source code is not publicly available for our custom build of `Taiko-
 
 ###  Special Repositories
 	
-- **BUG TRACKER**
-- **STATUS**
-- **SONG REQUEST**
+- [**BUG TRACKER**](https://github.com/TaikoSim/BugTracker)
+- [**STATUS**](https://status.taikosim.click/)
+- [**SONG REQUEST**](https://github.com/TaikoSim/SongRequests)
 
 ---
 **Disclaimer Regarding TaikoSim**
